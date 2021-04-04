@@ -50,7 +50,7 @@ jar {
 }
 
 configurations {
-  jar.archiveFileName = 'cem-java-library.jar'
+  jar.archiveFileName = 'cem-api-java.jar'
 }
 compileJava {
     options.release = 11

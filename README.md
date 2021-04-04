@@ -1,4 +1,4 @@
-# cem-java-library
+# cem-api-java
 Java library for CyberArk Cloud Entitlements Manager
 
 ## Progress
